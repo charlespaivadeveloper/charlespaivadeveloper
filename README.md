@@ -1,63 +1,37 @@
-# Hi, I'm Charles Paiva 👋
+# Olá, eu sou o Charles Paiva 👋
 
-Senior Java Backend Engineer with **14+ years of experience** building, modernizing,
-and operating **scalable backend systems** for enterprise and SaaS platforms.
+Engenheiro de software com mais de 18 anos de experiência (14 deles com Java) construindo, modernizando e operando sistemas backend críticos para serviços públicos, bancos, telecomunicações e plataformas corporativas.
 
-I specialize in **Java, Spring Boot, and cloud-native architectures**, with strong
-experience in **microservices, event-driven systems, and messaging**.
-Most of my recent work focuses on **AWS, Docker, Kubernetes, and CI/CD pipelines**,
-always targeting production-grade reliability and scalability.
+Meu foco é backend com **Java e Spring Boot**: microsserviços, APIs REST, mensageria e entrega em **Kubernetes e AWS**. Também trabalho com front-end (Angular e React) quando o produto precisa.
 
----
+## Projetos em destaque
 
-## 🧠 What I Work With
+- **[enterprise-rag-java](https://github.com/charlespaivadeveloper/enterprise-rag-java)**: RAG multi-tenant em Java 21 e Spring AI, com busca híbrida no PostgreSQL (texto completo + pgvector), citações, isolamento por tenant, proteção contra prompt injection, ADRs e threat model.
+- **[spring-ai-mcp-clean](https://github.com/charlespaivadeveloper/spring-ai-mcp-clean)**: servidores MCP (Model Context Protocol) com Spring AI e Clean Architecture, e um cliente com `ChatClient` que permite a um LLM chamar as ferramentas.
+- **[saga-choreography](https://github.com/charlespaivadeveloper/saga-choreography)**: padrão SAGA coreografado com Java 21, Spring Boot e Kafka (pedido, pagamento e estoque), Clean Architecture, DDD, ArchUnit, Testcontainers, k6 e Kubernetes (kind).
+- **[nomad-tax-calculation-engine](https://github.com/charlespaivadeveloper/nomad-tax-calculation-engine)**: starter de especificação (SDD, C4, ADRs, OpenAPI em rascunho) para um motor de cálculo tributário. Implementação pendente e taxas sintéticas.
 
-- **Languages:** Java (8–17+), Kotlin (basic), Node.js, Python  
-- **Frameworks:** Spring Boot, Spring Cloud, Apache Camel  
-- **Architecture:** Microservices, Event-Driven Architecture, REST APIs  
-- **Messaging:** RabbitMQ, AWS SQS/SNS  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Rancher, Helm, CI/CD  
-- **Databases:** PostgreSQL, SQL Server, MongoDB, Redis  
-- **Testing:** JUnit, Mockito, Cucumber (BDD)
+Site com projetos e arquitetura: [charlespaivadeveloper.github.io/portfolio-tecnico](https://charlespaivadeveloper.github.io/portfolio-tecnico/)
 
----
+## Tecnologias
 
-## 🚀 Featured Projects (Coming Soon)
+- **Linguagens:** Java 8 a 21, TypeScript; Kotlin (projetos pessoais)
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring WebFlux, Spring AI, MCP, Apache Camel
+- **Arquitetura:** microsserviços, arquitetura orientada a eventos, DDD, Clean Architecture
+- **Mensageria:** RabbitMQ, IBM MQ, AWS SQS/SNS; Kafka (projetos pessoais)
+- **Cloud e DevOps:** AWS, Docker, Kubernetes, Rancher, Helm, Jenkins, Azure DevOps
+- **Dados:** PostgreSQL (pgvector), SQL Server, Oracle, MongoDB, Redis
+- **Testes:** JUnit, Mockito, Cucumber (BDD)
+- **IA no desenvolvimento:** Claude Code, GitHub Copilot, Spec-Driven Development
 
-> These repositories are being built to demonstrate real-world,
-> production-oriented backend systems.
+## Em que tenho trabalhado
 
-- **Java Microservices Platform**  
-  Production-ready microservices using Java 17, Spring Boot, Docker, and PostgreSQL.
+- Backend e mensageria em sistemas financeiros e corporativos
+- Modernização de sistemas legados para arquiteturas cloud-native
+- Sistemas fiscais e tributários (NFS-e, CT-e, MDF-e)
+- IA aplicada ao desenvolvimento e a produtos (RAG)
 
-- **Event-Driven Java with RabbitMQ**  
-  Asynchronous messaging, retries, dead-letter queues, and idempotent consumers.
+## Contato
 
-- **Cloud-Native Java Template**  
-  Docker, Kubernetes, and Helm template for backend services.
-
----
-
-## 💼 Professional Focus
-
-- Backend systems design and evolution  
-- Legacy modernization to cloud-native architectures  
-- Event-driven systems and messaging reliability  
-- CI/CD, observability, and operational excellence  
-- Clean Architecture and maintainable codebases  
-
----
-
-## 🌍 Open to Opportunities
-
-I’m currently open to **remote opportunities** with international teams,
-including **full-time or long-term contract roles paid in USD**.
-
-📫 **Contact:**  
-- Email: paiva.charles@gmail.com  
-- LinkedIn: https://linkedin.com/in/charlespaiva
-
----
-
-⭐ *This GitHub is intentionally curated to reflect how I design and deliver
-backend systems in real production environments.*
+- E-mail: paiva.charles@gmail.com
+- LinkedIn: [linkedin.com/in/charlespaiva](https://www.linkedin.com/in/charlespaiva)
